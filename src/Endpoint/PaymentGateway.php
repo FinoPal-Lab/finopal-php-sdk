@@ -20,7 +20,7 @@ use FinoPal\Sdk\Options;
 use FinoPal\Sdk\Support\Payload;
 
 /**
- * متدهای درگاه، هم‌شکل ZarinPal\Sdk paymentGateway().
+ * متدهای درگاه پرداخت فینوپال.
  */
 final class PaymentGateway
 {

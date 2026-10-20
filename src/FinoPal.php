@@ -7,7 +7,7 @@ namespace FinoPal\Sdk;
 use FinoPal\Sdk\Endpoint\PaymentGateway;
 
 /**
- * نقطه ورود نمونه کد، هم‌شکل ZarinPal\Sdk\ZarinPal.
+ * نقطه ورود نمونه کد درگاه فینوپال.
  */
 final class FinoPal
 {
